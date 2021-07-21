@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="640dp"
+    android:viewportWidth="640"
+    android:viewportHeight="640">
+  <group
+      android:name="groupTickCross">
+  <path
+      android:pathData="M324.89,96.6C330.42,96.6 334.89,101.07 334.89,106.6C334.89,135.66 334.89,212.85 334.89,241.91C334.89,247.44 330.42,251.91 324.89,251.91C298.1,251.91 227.72,251.91 200.92,251.91C195.4,251.91 190.92,247.44 190.92,241.91C190.92,212.85 190.92,135.66 190.92,106.6C190.92,101.07 195.4,96.6 200.92,96.6C227.72,96.6 298.1,96.6 324.89,96.6Z"
+      android:fillColor="#ed3780"/>
+  </group>
+</vector>
